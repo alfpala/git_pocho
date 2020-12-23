@@ -1,2 +1,2 @@
 alert("hola Mundos");
-console.log("prueba Editado")
+console.log("prueba Editado");
